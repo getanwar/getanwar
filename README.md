@@ -1,6 +1,6 @@
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=getanwar&show_icons=true&locale=en&layout=compact" alt="Anwar Hussain" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=getanwar&show_icons=true&locale=en&layout=compact" alt="Anwar Hussain" />
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=getanwar&show_icons=true&locale=en" alt="Anwar Hussain" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=getanwar&show_icons=true&locale=en" alt="Anwar Hussain" /></p>
 
 
 <!--
