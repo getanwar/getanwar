@@ -1,8 +1,3 @@
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=getanwar&show_icons=true&locale=en&layout=compact" alt="Anwar Hussain" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=getanwar&show_icons=true&locale=en" alt="Anwar Hussain" /></p>
-
-
 <!--
 **getanwar/getanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
